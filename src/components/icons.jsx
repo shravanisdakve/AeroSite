@@ -1,4 +1,8 @@
 /**
+ * @module AeroSite
+ * @description Module for icons.jsx
+ */
+/**
  * Reusable SVG icon components.
  * Extracted from inline SVGs duplicated across pages.
  */
@@ -260,3 +264,4 @@ export const RainIcon = ({ className = 'h-5 w-5' }) => (
 
 // @module AeroSite
  
+

@@ -3,3 +3,5 @@ export const WEATHER_OPTIONS = [
   { value: 'Cloudy', label: '☁️ Cloudy' },
   { value: 'Rainy', label: '🌧️ Rainy' },
 ];
+
+// @module AeroSite

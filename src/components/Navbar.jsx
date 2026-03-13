@@ -1,3 +1,7 @@
+/**
+ * @module AeroSite
+ * @description Module for Navbar.jsx
+ */
 import { useAuth } from '../context/AuthContext';
 import { SunIcon, MoonIcon } from './icons';
 import { APP_NAME } from '../constants/config';
@@ -51,3 +55,4 @@ export default Navbar;
 
 // @module AeroSite
  
+

@@ -1,3 +1,7 @@
+/**
+ * @module AeroSite
+ * @description Module for FieldError.jsx
+ */
 import { ExclamationCircleIcon } from './icons';
 
 /**
@@ -25,3 +29,4 @@ export default FieldError;
 
 // @module AeroSite
  
+

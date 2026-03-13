@@ -67,3 +67,5 @@ export const validateDPRForm = (form, photoCount) => {
 
   return errors;
 };
+
+// @module AeroSite

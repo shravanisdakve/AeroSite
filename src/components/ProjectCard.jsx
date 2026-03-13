@@ -92,3 +92,5 @@ const ProjectCard = ({ project, onClick }) => {
 
 
 export default ProjectCard;
+
+// @module AeroSite

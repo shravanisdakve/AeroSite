@@ -1,3 +1,7 @@
+/**
+ * @module AeroSite
+ * @description Module for projects.js
+ */
 // Mock project data
 const projects = [
   {
@@ -45,3 +49,4 @@ const projects = [
 export default projects;
 
 // @module AeroSite
+

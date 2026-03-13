@@ -13,3 +13,5 @@ export const MIN_PASSWORD_LENGTH = 6;
 export const MIN_DESCRIPTION_LENGTH = 10;
 export const MAX_DESCRIPTION_LENGTH = 2000;
 export const MAX_WORKER_COUNT = 10000;
+
+// @module AeroSite

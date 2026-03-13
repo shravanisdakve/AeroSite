@@ -1,3 +1,7 @@
+/**
+ * @module AeroSite
+ * @description Module for ProjectsPage.jsx
+ */
 import { useState, useMemo } from 'react';
 import { useNavigate } from 'react-router-dom';
 import { useAuth } from '../context/AuthContext';
@@ -146,3 +150,4 @@ const ProjectsPage = () => {
 export default ProjectsPage;
 
 // @module AeroSite
+

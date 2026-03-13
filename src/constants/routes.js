@@ -1,3 +1,7 @@
+/**
+ * @module AeroSite
+ * @description Module for routes.js
+ */
 export const ROUTES = {
   LOGIN: '/',
   REGISTER: '/register',
@@ -10,3 +14,4 @@ export const ROUTES = {
 
 // @module AeroSite
  
+

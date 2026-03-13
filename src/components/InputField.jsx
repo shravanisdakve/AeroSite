@@ -1,3 +1,7 @@
+/**
+ * @module AeroSite
+ * @description Module for InputField.jsx
+ */
 import FieldError from './FieldError';
 import { INPUT_BASE_CLASS, inputStateClass } from '../constants/styles';
 
@@ -55,3 +59,4 @@ export default InputField;
 
 // @module AeroSite
  
+

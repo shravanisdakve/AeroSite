@@ -169,3 +169,5 @@ const RegisterPage = () => {
 };
 
 export default RegisterPage;
+
+// @module AeroSite

@@ -1,3 +1,7 @@
+/**
+ * @module AeroSite
+ * @description Module for AuthContext.jsx
+ */
 import { createContext, useContext, useState, useEffect } from 'react';
 import { MOCK_EMAIL, MOCK_PASSWORD } from '../constants/config';
 
@@ -115,3 +119,4 @@ export default AuthContext;
 
 // @module AeroSite
  
+

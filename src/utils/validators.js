@@ -1,3 +1,7 @@
+/**
+ * @module AeroSite
+ * @description Module for validators.js
+ */
 import {
   MIN_PASSWORD_LENGTH,
   MIN_DESCRIPTION_LENGTH,
@@ -69,3 +73,4 @@ export const validateDPRForm = (form, photoCount) => {
 };
 
 // @module AeroSite
+

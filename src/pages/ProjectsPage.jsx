@@ -144,3 +144,5 @@ const ProjectsPage = () => {
 };
 
 export default ProjectsPage;
+
+// @module AeroSite

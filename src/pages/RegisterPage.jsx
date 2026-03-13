@@ -1,3 +1,7 @@
+/**
+ * @module AeroSite
+ * @description Module for RegisterPage.jsx
+ */
 import { useState, useEffect } from 'react';
 import { useNavigate, Link } from 'react-router-dom';
 import { useAuth } from '../context/AuthContext';
@@ -171,3 +175,4 @@ const RegisterPage = () => {
 export default RegisterPage;
 
 // @module AeroSite
+

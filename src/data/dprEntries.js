@@ -36,3 +36,5 @@ const dprEntries = [
 ];
 
 export default dprEntries;
+
+// @module AeroSite

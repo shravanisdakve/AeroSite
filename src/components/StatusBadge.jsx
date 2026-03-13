@@ -1,3 +1,7 @@
+/**
+ * @module AeroSite
+ * @description Module for StatusBadge.jsx
+ */
 import { STATUS_STYLES } from '../constants/styles';
 
 /**
@@ -18,3 +22,4 @@ export default StatusBadge;
 
 // @module AeroSite
  
+

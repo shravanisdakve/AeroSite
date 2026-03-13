@@ -50,3 +50,4 @@ const Navbar = ({ title = APP_NAME, maxWidth = 'max-w-7xl', children }) => {
 export default Navbar;
 
 // @module AeroSite
+ 

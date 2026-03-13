@@ -1,3 +1,7 @@
+/**
+ * @module AeroSite
+ * @description Module for index.js
+ */
 // Utility functions
 
 /**
@@ -26,3 +30,4 @@ export const getTodayDate = () => {
 export const generateId = () => crypto.randomUUID();
 
 // @module AeroSite
+

@@ -1,3 +1,7 @@
+/**
+ * @module AeroSite
+ * @description Module for ReportHistoryPage.jsx
+ */
 import { useState, useEffect } from 'react';
 import { useParams, useNavigate } from 'react-router-dom';
 import projects from '../data/projects';
@@ -154,3 +158,4 @@ const ReportHistoryPage = () => {
 export default ReportHistoryPage;
 
 // @module AeroSite
+

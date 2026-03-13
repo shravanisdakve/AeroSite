@@ -1,3 +1,7 @@
+/**
+ * @module AeroSite
+ * @description Module for styles.js
+ */
 export const STATUS_STYLES = {
   'In Progress': 'bg-amber-100/50 text-amber-700 ring-amber-400/20 dark:bg-amber-500/10 dark:text-amber-500 dark:ring-amber-500/20',
   Planning: 'bg-indigo-100/50 text-indigo-700 ring-indigo-400/20 dark:bg-indigo-500/10 dark:text-indigo-400 dark:ring-indigo-500/20',
@@ -29,3 +33,4 @@ export const BUTTON_DANGER = `inline-flex items-center justify-center px-4 py-2 
 
 // @module AeroSite
  
+

@@ -1,3 +1,7 @@
+/**
+ * @module AeroSite
+ * @description Module for Toast.jsx
+ */
 import { useEffect } from 'react';
 import { CheckCircleIcon, CloseIcon } from './icons';
 
@@ -34,3 +38,4 @@ export default Toast;
 
 // @module AeroSite
  
+

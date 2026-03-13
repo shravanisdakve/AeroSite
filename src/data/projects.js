@@ -43,3 +43,5 @@ const projects = [
 ];
 
 export default projects;
+
+// @module AeroSite

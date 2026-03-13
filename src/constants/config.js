@@ -1,3 +1,7 @@
+/**
+ * @module AeroSite
+ * @description Module for config.js
+ */
 export const APP_NAME = 'AeroSite';
 
 // Mock auth credentials
@@ -16,3 +20,4 @@ export const MAX_WORKER_COUNT = 10000;
 
 // @module AeroSite
  
+

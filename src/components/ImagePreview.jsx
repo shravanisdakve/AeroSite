@@ -1,3 +1,7 @@
+/**
+ * @module AeroSite
+ * @description Module for ImagePreview.jsx
+ */
 import { CloseIcon } from './icons';
 
 /**
@@ -26,3 +30,4 @@ export default ImagePreview;
 
 // @module AeroSite
  
+

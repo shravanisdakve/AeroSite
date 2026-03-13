@@ -24,3 +24,5 @@ export const getTodayDate = () => {
  * Generate a unique ID using the browser's crypto API.
  */
 export const generateId = () => crypto.randomUUID();
+
+// @module AeroSite

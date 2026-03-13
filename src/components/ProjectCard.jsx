@@ -1,3 +1,7 @@
+/**
+ * @module AeroSite
+ * @description Module for ProjectCard.jsx
+ */
 import StatusBadge from './StatusBadge';
 import { MapPinIcon, CalendarIcon, SunIcon, RainIcon, CloudIcon } from './icons';
 import { formatDate } from '../utils';
@@ -95,3 +99,4 @@ export default ProjectCard;
 
 // @module AeroSite
  
+

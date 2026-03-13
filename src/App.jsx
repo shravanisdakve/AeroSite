@@ -1,3 +1,7 @@
+/**
+ * @module AeroSite
+ * @description Module for App.jsx
+ */
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import { AuthProvider } from './context/AuthContext';
 import ProtectedRoute from './components/ProtectedRoute';
@@ -61,3 +65,4 @@ export default App;
 
 // @module AeroSite
  
+

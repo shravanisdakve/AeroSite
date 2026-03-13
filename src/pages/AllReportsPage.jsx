@@ -1,3 +1,7 @@
+/**
+ * @module AeroSite
+ * @description Module for AllReportsPage.jsx
+ */
 import { useState, useEffect } from 'react';
 import { useNavigate } from 'react-router-dom';
 import projects from '../data/projects';
@@ -157,3 +161,4 @@ const AllReportsPage = () => {
 export default AllReportsPage;
 
 // @module AeroSite
+

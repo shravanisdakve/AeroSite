@@ -1,3 +1,7 @@
+/**
+ * @module AeroSite
+ * @description Module for ProtectedRoute.jsx
+ */
 import { Navigate } from 'react-router-dom';
 import { useAuth } from '../context/AuthContext';
 import { ROUTES } from '../constants/routes';
@@ -16,3 +20,4 @@ export default ProtectedRoute;
 
 // @module AeroSite
  
+
